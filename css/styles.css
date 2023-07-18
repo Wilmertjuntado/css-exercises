@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(152, 155, 152);
+}
+
+.container__div{
+    background-color: rgb(110, 155, 110);
+    width: 80%;
+    margin: auto;
+
+}
