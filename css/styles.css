@@ -8,29 +8,29 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.container__div {
-    background-color: rgb(110, 155, 110);
+.teaMenu {
+    background-color: rgba(87, 180, 118, 0.5);
     width: 80%;
     margin-left: auto;
     margin-right: auto;
 
 }
 
-.teaItem p{
+.teaItem p {
     /* background-color: aliceblue; */
     display: inline-block;
 }
 
-.teaFlavor {
+.teaFlavor, .teaCollection {
     background-color: rgb(26, 103, 170);
     text-align: left;
-    width: 50%;
+    width: 75%;
 }
 
-.teaPrices {
+.teaPrices, .collectionPrice {
     background-color: aliceblue;
     text-align: right;
-    width: 50%;
+    width: 25%;
 }
 
 
