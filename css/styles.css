@@ -17,18 +17,20 @@ body {
 }
 
 .teaItem p{
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     display: inline-block;
 }
 
 .teaFlavor {
+    background-color: rgb(26, 103, 170);
     text-align: left;
-    width: 49%;
+    width: 50%;
 }
 
 .teaPrices {
+    background-color: aliceblue;
     text-align: right;
-    width: 49%;
+    width: 50%;
 }
 
 
