@@ -10,9 +10,7 @@ body {
 
 .teaMenu {
     background-color: rgba(87, 180, 118, 0.5);
-    width: 80%;
-    margin-left: auto;
-    margin-right: auto;
+    padding: 20px;
 
 }
 
